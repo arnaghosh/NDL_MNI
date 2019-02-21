@@ -7,3 +7,7 @@ We would be uploading the resources used in each meeeting so attendees as well a
 
 ### Resource List
 * **Slides** - Consists of presentations used in each meeting
+
+### Contact List
+* [Ricardo Pizarro](mailto:ricardo.pizarro@mcgill.ca)
+* [Arna Ghosh](mailto:arna.ghosh@mail.mcgill.ca)
