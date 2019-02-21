@@ -6,4 +6,4 @@ This reading group aims to bring together machine learning and deep learning ent
 We would be uploading the resources used in each meeeting so attendees as well as others can access it at all times. 
 
 ### Resource List
-* Slides - Consists of presentations used in each meeting
+* **Slides** - Consists of presentations used in each meeting
