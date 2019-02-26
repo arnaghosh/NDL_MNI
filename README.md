@@ -14,5 +14,5 @@ We will be uploading the resources used in each meeeting so attendees as well as
 * **Useful Links** - Consists of related links that might come in handy during discussions
 
 ### Contact List
-* Ricardo Pizarro : [email](mailto:ricardo.pizarro@mcgill.ca) : [github](https://github.com/ricardopizarro)
-* Arna Ghosh: [email](mailto:arna.ghosh@mail.mcgill.ca) : [github](https://github.com/arnaghosh)
+* [Ricardo Pizarro](../about_us/Ricardo_Pizarro.md) : [email](mailto:ricardo.pizarro@mcgill.ca) : [github](https://github.com/ricardopizarro)
+* [Arna Ghosh](../about_us/Arna_Ghosh.md) : [email](mailto:arna.ghosh@mail.mcgill.ca) : [github](https://github.com/arnaghosh)
