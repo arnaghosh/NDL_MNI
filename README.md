@@ -12,6 +12,7 @@ We will be uploading the resources used in each meeeting so attendees as well as
 ### Resource List
 * **Slides** - Consists of presentations used in each meeting
 * **Useful Links** - Consists of related links that might come in handy during discussions
+* **About Us** - A brief introduction to the organizers Ricardo and Arna
 
 ### Contact List
 * [Ricardo Pizarro](About%20Us/Ricardo_Pizarro.md) : [email](mailto:ricardo.pizarro@mcgill.ca) : [github](https://github.com/ricardopizarro)
