@@ -9,7 +9,7 @@ The group is intended to be a discussion forum for researchers and students to c
 
 We will be uploading the slides and other resources used in each meeeting so attendees as well as others can access it at all times. In addition, we are blogging our meetings to track the content discussed for our reading group: 
 
-**[NDL blog]**(https://ndlmni.wixsite.com/home) 
+**[NDL blog](https://ndlmni.wixsite.com/home)**
 
 We want to hear from you.  Give us feedback on what we can improve and what you would like to see on this repo or on the blog.
 
