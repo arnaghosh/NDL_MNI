@@ -13,6 +13,19 @@ We will be uploading the slides and other resources used in each meeeting so att
 
 We want to hear from you.  Give us feedback on what we can improve and what you would like to see on this repo or on the blog.
 
+**Next Meeting**
+Date:- March 20, 2019  
+Time:- 1:00 PM-2:00 pm  
+Paper to be discussed:- [Convolutional neural network-based encoding and decoding of visual object recognition in space and time (Seeliger et al. Neuroimage 2018)](https://www.sciencedirect.com/science/article/pii/S1053811917305864?via%3Dihub)  
+Venues:-
+* MNI, Neuro, McGill  
+room: de Grandpré Communications Centre  
+point of contact: [Ricardo Pizarro](mailto:ricardo.pizarro@mcgill.ca)
+
+* Jewish General Hospital  
+room: Conference room G-23, Psychiatry building  
+point of contact: [Marie-Elyse Lafaille-Magnan](mailto:marie-elyse.lafaille-magnan@mail.mcgill.ca)
+
 ### Resource List
 * **Slides** - Consists of presentations used in each meeting
 * **Useful Links** - Consists of related links that might come in handy during discussions
