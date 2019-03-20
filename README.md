@@ -32,6 +32,8 @@ point of contact: [Marie-Elyse Lafaille-Magnan](mailto:marie-elyse.lafaille-magn
 * **Useful Links** - Consists of related links that might come in handy during discussions
 * **About Us** - A brief introduction to the organizers Ricardo and Arna
 
+### [Live streaming Link](https://www.youtube.com/watch?v=-d18rZ35txo)
+
 ### Contact List
 * [Ricardo Pizarro](About%20Us/Ricardo_Pizarro.md) : [email](mailto:ricardo.pizarro@mcgill.ca) : [github](https://github.com/ricardopizarro)
 * [Arna Ghosh](About%20Us/Arna_Ghosh.md) : [email](mailto:arna.ghosh@mail.mcgill.ca) : [github](https://github.com/arnaghosh)
