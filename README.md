@@ -32,7 +32,7 @@ point of contact: [Marie-Elyse Lafaille-Magnan](mailto:marie-elyse.lafaille-magn
 * **Useful Links** - Consists of related links that might come in handy during discussions
 * **About Us** - A brief introduction to the organizers Ricardo and Arna
 
-### ~~Live streaming Link~~
+### ~~Live streaming Link~~ [Link to the meeting video](https://youtu.be/-d18rZ35txo?t=4486)
 
 ### Contact List
 * [Ricardo Pizarro](About%20Us/Ricardo_Pizarro.md) : [email](mailto:ricardo.pizarro@mcgill.ca) : [github](https://github.com/ricardopizarro)
