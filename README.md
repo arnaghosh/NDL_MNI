@@ -18,6 +18,7 @@ We want to hear from you.  Give us feedback on what we can improve and what you 
 **Date:-** April 25, 2019  
 **Time:-** 4:00 PM-5:00 pm  
 **Speaker:-** Alexia Jolicoeur-Martineau
+
 **Venues:-**
 * MNI, Neuro, McGill  
 room: de Grandpré Communications Centre  
