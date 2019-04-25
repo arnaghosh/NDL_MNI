@@ -29,7 +29,7 @@ point of contact: [Ricardo Pizarro](mailto:ricardo.pizarro@mcgill.ca)
 * **Useful Links** - Consists of related links that might come in handy during discussions
 * **About Us** - A brief introduction to the organizers Ricardo and Arna
 
-### [Live streaming Link](https://www.youtube.com/watch?v=DNmhcL6NUXE)
+### [Video link](https://youtu.be/DNmhcL6NUXE?t=1777)
 
 ### Contact List
 * [Ricardo Pizarro](About%20Us/Ricardo_Pizarro.md) : [email](mailto:ricardo.pizarro@mcgill.ca) : [github](https://github.com/ricardopizarro)
